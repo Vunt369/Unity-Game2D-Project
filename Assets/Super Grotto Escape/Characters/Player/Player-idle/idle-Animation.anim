@@ -7,7 +7,11 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: idle-Animation
+<<<<<<< HEAD
   serializedVersion: 6
+=======
+  serializedVersion: 7
+>>>>>>> e0d1fbf617bdd83093ea4515de5868bb45389d69
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -18,7 +22,12 @@ AnimationClip:
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves:
+<<<<<<< HEAD
   - curve:
+=======
+  - serializedVersion: 2
+    curve:
+>>>>>>> e0d1fbf617bdd83093ea4515de5868bb45389d69
     - time: 0
       value: {fileID: 21300000, guid: 8260fa3e4fbaa204d8ba008dd62c4b27, type: 3}
     - time: 0.083333336
@@ -35,6 +44,10 @@ AnimationClip:
     path: 
     classID: 212
     script: {fileID: 0}
+<<<<<<< HEAD
+=======
+    flags: 2
+>>>>>>> e0d1fbf617bdd83093ea4515de5868bb45389d69
   m_SampleRate: 12
   m_WrapMode: 0
   m_Bounds:
@@ -49,6 +62,11 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+<<<<<<< HEAD
+=======
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+>>>>>>> e0d1fbf617bdd83093ea4515de5868bb45389d69
     pptrCurveMapping:
     - {fileID: 21300000, guid: 8260fa3e4fbaa204d8ba008dd62c4b27, type: 3}
     - {fileID: 21300000, guid: 9e15c84997439a841948f7de7ae89ed6, type: 3}

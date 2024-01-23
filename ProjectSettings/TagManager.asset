@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - Ground
+>>>>>>> e0d1fbf617bdd83093ea4515de5868bb45389d69
   layers:
   - Default
   - TransparentFX
@@ -41,6 +46,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Background
     uniqueID: 2618225695
     locked: 0
@@ -49,4 +55,14 @@ TagManager:
     locked: 0
   - name: Context
     uniqueID: 1969423531
+=======
+  - name: background
+    uniqueID: 1866090201
+    locked: 0
+  - name: platform
+    uniqueID: 1089538265
+    locked: 0
+  - name: player
+    uniqueID: 2524744799
+>>>>>>> e0d1fbf617bdd83093ea4515de5868bb45389d69
     locked: 0
